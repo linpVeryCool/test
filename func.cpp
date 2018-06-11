@@ -1,4 +1,6 @@
 #include<math.h>
-int thisfun(int i){
+int thisddddddddfun(int i){
    return std::sqrt(i);
 }
+fsdalkfjsdlfsajdlkfasjdf;ndkmfn,m
+dslfkasdjflkjjjjjjd
